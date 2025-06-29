@@ -41,11 +41,10 @@ img {
   margin: 0 auto;
   padding: 0 12px;
   display: flex;
-  justify-content: space-between; /* Sol - Sağ hizalama */
+  justify-content: space-between; 
   align-items: center;
 }
 
-/* Geri kalan stiller aynı kalabilir */
 .header-container,
 .contact-container {
   display: flex;
