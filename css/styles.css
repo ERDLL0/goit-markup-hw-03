@@ -161,9 +161,6 @@ img {
 /* Açıklama */
 .about-section {
   font-family: 'Roboto' sans-serif;
-  padding: 72px 24px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .about-section ul {
@@ -189,7 +186,6 @@ img {
 /* Ekip Tanıtımı */
 .team-section {
   background-color: #e7e9fc;
-  padding: 72px 0;
 }
 
 .team-section .container {
